@@ -70,6 +70,9 @@ body {
   text-align: center;
   width: 34px;
 }
+.active.square {
+  background-color: #e8e8;
+}
 
 .board-row:after {
   clear: both;
